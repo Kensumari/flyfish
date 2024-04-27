@@ -9,10 +9,10 @@ import {
   coerceNumberProperty,
   getRtlScrollAxisType,
   supportsScrollBehavior
-} from "./chunk-S2Q7IPOS.js";
+} from "./chunk-WNU2FTRO.js";
 import {
   DOCUMENT
-} from "./chunk-47AV5BZ5.js";
+} from "./chunk-PTXFMVFF.js";
 import {
   Attribute,
   BehaviorSubject,
@@ -99,7 +99,7 @@ import {
   ɵɵtext,
   ɵɵtextInterpolate1,
   ɵɵviewQuery
-} from "./chunk-Q6XKEIVT.js";
+} from "./chunk-LHK4P6BV.js";
 
 // node_modules/@angular/cdk/fesm2022/collections.mjs
 var DataSource = class {
