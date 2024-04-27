@@ -3,5 +3,3 @@
      Corgi: 'Corgi',
      JapaneseSpitz: 'Japanese Spitz',
  }
-
-export const SHIBA = 'Shiba';

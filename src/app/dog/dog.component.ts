@@ -1,14 +1,14 @@
-import { Component, Signal, signal, Input, OnInit } from '@angular/core';
+import { Component, signal, Input, OnInit } from '@angular/core';
 import { MatCardModule } from '@angular/material/card';
 import { Dogs } from '../constants';
+import { RouterModule } from '@angular/router';
 
 
 @Component({
   selector: 'app-dog',
   standalone: true,
-  imports: [MatCardModule],
+  imports: [MatCardModule, RouterModule],
   templateUrl: './dog.component.html',
-  styleUrl: './dog.component.scss'
 })
 export class DogComponent implements OnInit {
   @Input() name = "";
